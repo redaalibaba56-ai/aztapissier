@@ -1,0 +1,11 @@
+# Dossier de travail (photos brutes, vidéo HD originale, scripts) — pas déployé sur le site public
+media-source/
+
+# Fichiers système
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Dossiers temporaires
+__pycache__/
+node_modules/
